@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Segoe UI', 'Helvetica', 'Arial' sans-serif;
+}
+
+/* ===================== STYLING THE NAVIGATION BAR =========================================== */
+
+.nav_container {
+    width: 19%;
+    border-right: 0.3px solid lightgrey;
+    height: 100vh;
+    padding: 2.5rem 2rem;
+}
+
+nav > a > img {
+    width: 6.5rem;
+}
+
+.nav_items {
+    margin-top: 3rem;
+}
+
+.each_nav {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding-bottom: 2.5rem;
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: #333333;
+}
+
+.each_nav > h3 {
+    font-weight: 400;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.each_nav > img {
+    width: 1.3rem;
+    border-color: transparent;
+    border-radius: 100px;
+}
+
+.each_nav_home {
+    display: flex;
+    align-items: center;
+    gap: 0.9rem;
+    padding-bottom: 2.5rem;
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: #333333;
+}
