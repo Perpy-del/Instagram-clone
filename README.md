@@ -11,7 +11,7 @@ Instagram is a social media platform where you can connect and communicate with 
 - Access GitHub on any web browser.
 - Clone this
 ```bash
-
+https://github.com/Perpy-del/Instagram-clone.git
 ```
 
 # Live Demo
