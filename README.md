@@ -15,6 +15,6 @@ Instagram is a social media platform where you can connect and communicate with 
 ```
 
 # Live Demo
-### Here is the link to the live page: [Instagram clone]()
+### Here is the link to the live page: [Instagram clone](https://stutern-instagram-clone.netlify.app/)
 
 Really challenging but worth it!
